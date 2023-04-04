@@ -2,4 +2,5 @@
 Show beginner
 learning network
 #subheader
-smal textgit
+smal textg
+
